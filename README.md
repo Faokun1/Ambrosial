@@ -3,9 +3,14 @@
 
 Ambrosial is a launcher for Minecraft: Windows 10/11 Edition modifications.
 
+# DISCONTINUED! - Thank you very much -
+We have decided to stop development for a while.
+
+Thank you to all those who loved Ambrosial!
+
 # WARNING!
 
-**1.19.71** is not supported. Please wait a moment for support.
+**1.19.80/81** and **1.20.0** is **not** supported.
 ## Features
 - [x] Server stored modifications
 - `Ensures you are always up to date by retrieving the latest modifications from the server.`
